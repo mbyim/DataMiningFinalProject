@@ -1,0 +1,400 @@
+BLDG_NAME,ZIPCODE,SCH_NAME,SCH_TYPE,Location
+Kilmer Bldg,2132,Kilmer Lower (K1-3),K-8,"35 Baker Street
+West Roxbury, MA 02132
+(42.271608539572284, -71.16306812498556)"
+Dorchester Ed. Bldg #1 - Main,2124,TechBoston Acad Lower (6-9),6th-12,"9 Peacevale Road
+Dorchester, MA 02124
+(42.287968441354764, -71.07678053840408)"
+Condon Bldg,2127,Condon Elementary,ES,"200 D Street
+South Boston, MA 02127
+(42.33779939252895, -71.05207653278433)"
+Umana / Barnes Bldg,2128,Umana/ Alighieri K-8,K-8,"312 Border Street
+East Boston, MA 02128
+(42.3784481460674, -71.0400750003554)"
+English Hs Bldg,2130,English High,HS,"144 Mcbride Street
+Jamaica Plain, MA 02130
+(42.30573856218439, -71.10932737316955)"
+Hennigan Bldg,2130,Hennigan Elementary,ES,"200 Heath Street
+Jamaica Plain, MA 02130
+(42.32623411123217, -71.10595491555966)"
+Hale Bldg,2119,Hale Elementary,ES,"51 Cedar Street
+Roxbury, MA 02119
+(42.32510468708415, -71.09094395274691)"
+Odonnell Bldg,2128,O'Donnell Elementary,ES,"33 Trenton Street
+East Boston, MA 02128
+(42.37820108219664, -71.03816152052767)"
+Boston Latin School Bldg,2115,Boston Latin School,6th-12,"78 Avenue Louis Pasteur
+Boston, MA 02115
+(42.33816811456097, -71.10240259354396)"
+Wheatley Bldg,2119,Boston Evening Academy,Special,"20 Kearsage Avenue
+Roxbury, MA 02119
+(42.32383000005461, -71.0855000003246)"
+Hurley Bldg,2118,Hurley Elementary,K-8,"70 Worcester Street
+Boston, MA 02118
+(42.33917608244011, -71.07783281457425)"
+Madison Park Bldg #3 - O'Bryant,2120,O'Bryant Math & Sci.,6th-12,"55 Malcolm X Blvd
+Roxbury, MA 02120
+(42.33080266714097, -71.08861598683478)"
+Agassiz Building,2130,Margarita Muniz Academy,HS,"20 Child St
+Jamaica Plain, MA 02130
+(42.30682674183987, -71.1136441189102)"
+Mattahunt Bldg,2126,Mattahunt Elementary,ES,"100 Hebron Street
+Mattapan, MA 02126
+(42.27419091928787, -71.10613888078164)"
+Rogers Bldg,2136,Rogers Middle,MS,"15 Everett Street
+Hyde Park, MA 02136
+(42.25748094209217, -71.12195385446091)"
+Kenny Bldg,2122,Kenny Elementary,ES,"19 Oakton Avenue
+Dorchester, MA 02122
+(42.28667113036399, -71.05353407142158)"
+Mildred Avenue Bldg,2126,Mildred Avenue K-8,K-8,"5 Mildred Avenue
+Mattapan, MA 02126
+(42.275681819508414, -71.09201993902776)"
+Adams Bldg,2128,Adams Elementary,ES,"165 Webster Street
+East Boston, MA 02128
+(42.365693168678405, -71.03483332668918)"
+Winship Bldg,2135,Winship Elementary,ES,"54 Dighton Street
+Brighton, MA 02135
+(42.34750446372793, -71.15435282550314)"
+Haley Bldg,2131,Haley Elementary,ES,"570 American Legion Highway
+Roslindale, MA 02131
+(42.286744880925596, -71.10811328842999)"
+Ipswich St Bldg,2215,Boston Arts Academy,HS,"174 Ipswich Street
+Boston, MA 02215
+(42.34659811860869, -71.09491375534215)"
+Grew Bldg,2136,Grew Elementary,ES,"40 Gordon Avenue
+Hyde Park, MA 02136
+(42.25712121328041, -71.12685515952063)"
+Ellis Bldg,2119,Ellis Elementary,ES,"302 Walnut Avenue
+Roxbury, MA 02119
+(42.3165135808906, -71.09314406776761)"
+Boston Latin Academy Bldg,2121,Boston Latin Academy,6th-12,"205 Townsend Street
+Boston, MA 02121
+(42.31671029094184, -71.08542339363078)"
+Charlestown High Bldg #1 -  Main,2129,Charlestown High,HS,"240 Medford Street
+Charlestown, MA 02129
+(42.38043624993804, -71.06079096324822)"
+Thompson Bldg,2124,Boston International HS,Special,"100 Maxwell Street
+Dorchester, MA 02124
+(42.28160975213825, -71.08065698687545)"
+Baldwin Bldg,2135,Baldwin ELPA,ELC,"121 Corey Road
+Brighton, MA 02135
+(42.34210714504928, -71.14073169843272)"
+Otis Bldg,2128,Otis Elementary,ES,"218 Marion Street
+East Boston, MA 02128
+(42.37500434488106, -71.03412606507948)"
+Brighton High School Bldg,2135,Brighton High,HS,"25 Warren Street
+Brighton, MA 02135
+(42.349661450095425, -71.14414012892377)"
+Agassiz Building,2130,Mission Hill K-8,K-8,"20 Child St
+Jamaica Plain, MA 02130
+(42.30682674183987, -71.1136441189102)"
+Channing Bldg,2136,Channing Elementary,ES,"35 Sunnyside Street
+Hyde Park, MA 02136
+(42.25135655907263, -71.1330245086416)"
+Dearborn Bldg,2119,Dearborn Middle,MS,"35 Greenville Street
+Roxbury, MA 02119
+(42.32616216546978, -71.08038719026666)"
+South Boston Ed. Bldg,2127,Excel High,HS,"95 G Street
+South Boston, MA 02127
+(42.33288010102865, -71.04418947858738)"
+Edwards Bldg,2129,Edwards Middle,MS,"28 Walker Street
+Charlestown, MA 02129
+(42.37902847477898, -71.06702234757459)"
+East Boston Eec Bldg,2128,East Boston EEC,ELC,"135 Gove Street
+East Boston, MA 02128
+(42.36984203380487, -71.03422832023752)"
+Garfield Bldg,2135,Lyon, Mary 9-12,"95 Beechcroft Street
+Brighton, MA 02135
+(42.352107606015124, -71.1610653695152)"
+Timilty Bldg,2119,Timilty Middle,MS,"205 Roxbury Street
+Roxbury, MA 02119
+(42.33016414850016, -71.09106214275448)"
+Lee Bldg,2124,Lee Academy,K-8,"155 Talbot Avenue
+Dorchester, MA 02124
+(42.292509838914825, -71.0799995461606)"
+Gavin Bldg,2127,Middle School Academy,Special,"215 Dorchester Street
+South Boston, MA 02127
+(42.33338761510174, -71.05025030572995)"
+Hyde Park EC,2136,New Mission High,HS,"655 Metropolitan Ave
+Hyde Park, MA 02136
+(42.263092711554975, -71.11734932567094)"
+Mendell Bldg,2119,Mendell Elementary,ES,"164 School Street
+Roxbury, MA 02119
+(42.31661136551861, -71.10115253592323)"
+Winthrop Bldg,2125,Winthrop Elementary,ES,"35 Brookford Street
+Dorchester, MA 02125
+(42.31837317323726, -71.07556583274686)"
+Irving Bldg,2131,Irving Middle,MS,"105 Cummins Highway
+Roslindale, MA 02131
+(42.28388503687239, -71.12452591546474)"
+Curley  Mary  Bldg,2130,Curley Upper (6-8),K-8,"493 Centre Street
+Jamaica Plain, MA 02130
+(42.31836504347575, -71.11247500027213)"
+Health Careers Academy,2115,Kennedy Health Careers Acad,HS,"100 The Fenway
+Boston, MA 02115
+(42.3438499996779, -71.08983000035408)"
+Greenwood  S Bldg,2121,Greenwood Sarah K-8,K-8,"189 Glenway Street
+Dorchester, MA 02121
+(42.29657447070582, -71.08053108179138)"
+Russell Bldg,2125,Russell Elementary,ES,"750 Columbia Road
+Dorchester, MA 02125
+(42.32006500285939, -71.0597203689021)"
+Snowden Hs Bldg,2116,Snowden International,HS,"150 Newbury Street
+Boston, MA 02116
+(42.35074063653059, -71.0780399597702)"
+Farragut Building,2115,Kennedy Health Careers Academy,HS,"10 Fernwood Road
+Jamaica Plain, MA 02115
+(42.3438499996779, -71.08983000035408)"
+Lee Bldg,2124,Lee Elementary,K-8,"155 Talbot Avenue
+Dorchester, MA 02124
+(42.292509838914825, -71.0799995461606)"
+Mckinley St Mary'S St Bldg,2215,McKinley Middle,Special,"50 St. Mary Street
+Boston, MA 02215
+(42.34785381281654, -71.10699812911366)"
+Shaw  P.A. Bldg,2124,Boston Adult Tech Acad,Special,"429 Norfolk Street
+Dorchester, MA 02124
+(42.28167303810778, -71.08699911763809)"
+Fifield Building,2124,ECC at Fifield,ELC,"25 Dunbar Ave.
+Dorchester, MA 02124
+(42.286574009740036, -71.0730127496264)"
+Trotter Bldg,2121,Trotter Elementary,ES,"135 Humboldt Avenue
+Dorchester, MA 02121
+(42.3153547643682, -71.08781158305847)"
+Perry Bldg,2127,Perry K-8,K-8,"745 E. Seventh Street
+South Boston, MA 02127
+(42.33233334449332, -71.03030006532613)"
+Carter Center Bldg,2118,Carter Center,Special,"396 Northampton Street
+Roxbury, MA 02118
+(42.340120185922935, -71.08406795278779)"
+Mckay Bldg,2128,McKay K-8,K-8,"122 Cottage Street
+East Boston, MA 02128
+(42.36880873159441, -71.03425986004385)"
+West Roxbury Ed. Bldg,2132,Urban Science Academy,HS,"1205 V.F.W. Parkway
+West Roxbury, MA 02132
+(42.27822999981481, -71.15878999955868)"
+Ohrenberger Bldg,2132,Ohrenberger Elementary,K-8,"175 West Boundary Road
+West Roxbury, MA 02132
+(42.262601300231715, -71.14670644906542)"
+Fuller Bldg,2130,Community Academy,Special,"25 Glen Road
+Jamaica Plain, MA 02130
+(42.30911101979427, -71.10351775286028)"
+Wilson Bldg,2124,Dorchester Academy,HS,"18 Croftland Avenue
+Dorchester, MA 02124
+(42.281020622561364, -71.06963945065642)"
+Gardner Bldg,2134,Gardner Elementary,K-8,"30 Athol Street
+Allston, MA 02134
+(42.360597205971715, -71.13443644422762)"
+Lyon  Mary  Bldg,2135,Lyon K-8,K-8,"50 Beechcroft Street
+Brighton, MA 02135
+(42.351055399240806, -71.1611732881587)"
+Greenwood  E Bldg,2136,Greenwood Elihu Elem,ES,"612 Metropolitan Avenue
+Hyde Park, MA 02136
+(42.265367996289115, -71.11803281041318)"
+Warren-Prescott Bldg,2129,Warren/Prescott,K-8,"50 School Street
+Charlestown, MA 02129
+(42.37815197198364, -71.0640734886552)"
+Russett Road Bldg,2132,Kilmer Upper (4-8),K-8,"140 Russett Road
+West Roxbury, MA 02132
+(42.29269446472251, -71.15213838396573)"
+King Bldg,2121,King K-8,K-8,"77 Lawrence Avenue
+Dorchester, MA 02121
+(42.31152120283281, -71.07621433605073)"
+Chittick Bldg,2126,Chittick Elementary,ES,"154 Ruskindale Road
+Mattapan, MA 02126
+(42.26703174204334, -71.10476781048101)"
+Mckinley Peterborough Bldg,2215,McKinley Prep High Sch,Special,"97 Peterborough Street
+Boston, MA 02215
+(42.34322657694314, -71.09932544590663)"
+Orchard Gardens K-8,2119,Orchard Gardens K-8,K-8,"906 Albany Street
+Roxbury, MA 02119
+(42.33033533762743, -71.07822289309473)"
+Bates Bldg,2131,Bates Elementary,ES,"426 Beech Street
+Roslindale, MA 02131
+(42.277355958939665, -71.13545267812071)"
+Everett Bldg,2125,Everett Elementary,ES,"71 Pleasant Street
+Dorchester, MA 02125
+(42.31411775610312, -71.05989955788655)"
+Jackson Mann Bldg,2134,Horace Mann,Special,"40 Armington Street
+Allston, MA 02134
+(42.352368409403596, -71.13781789505776)"
+Conley Bldg,2131,Conley Elementary,ES,"450 Poplar Street
+Roslindale, MA 02131
+(42.27507168098526, -71.12702603070619)"
+Curley  J.  Bldg,2130,Curley Lower (K1-5),K-8,"40 Pershing Road
+Jamaica Plain, MA 02130
+(42.31902723821159, -71.11351072913165)"
+Edison Bldg,2135,Edison K-8,K-8,"60 Glenmont Road
+Brighton, MA 02135
+(42.345812351810025, -71.16032792545116)"
+Frederick Middle,2121,Frederick Pilot Middle,MS,"270 Columbia Road
+Dorchester, MA 02121
+(42.30875264264692, -71.07467902522195)"
+Philbrick Bldg,2131,Philbrick Elementary,ES,"40 Philbrick Street
+Roslindale, MA 02131
+(42.285413884322224, -71.11799683753202)"
+South Boston Ed. Bldg,2127,Boston Green Academy,HS,"95 G Street
+South Boston, MA 02127
+(42.33288010102865, -71.04418947858738)"
+Taylor Bldg,2126,Taylor Elementary,ES,"1060 Morton Street
+Mattapan, MA 02126
+(42.27745717490273, -71.0776090747091)"
+Gavin Bldg,2127,UP Academy,MS,"215 Dorchester Street
+South Boston, MA 02127
+(42.33338761510174, -71.05025030572995)"
+Sumner Bldg,2131,Sumner Elementary,ES,"15 Basile Street
+Roslindale, MA 02131
+(42.28662796906178, -71.12666630189449)"
+Tobin Bldg,2120,Tobin K-8,K-8,"40 Smith Street
+Roxbury, MA 02120
+(42.33341070102597, -71.09806786136272)"
+Lewenberg Bldg,2126,Young Achievers K-8,K-8,"20 Outlook Road
+Mattapan, MA 02126
+(42.28194771120152, -71.093956683085)"
+Mozart Bldg,2131,Mozart Elementary,ES,"236 Beech Street
+Roslindale, MA 02131
+(42.281043179259825, -71.14121733232855)"
+Dever Bldg,2125,Dever Elementary,ES,"325 Mt. Vernon Street
+Dorchester, MA 02125
+(42.31775350449584, -71.0420850650388)"
+Jackson Mann Bldg,2134,Jackson/Mann K-8,K-8,"40 Armington Street
+Allston, MA 02134
+(42.352368409403596, -71.13781789505776)"
+West Roxbury Ed. Bldg,2132,West Roxbury Academy,HS,"1205 V.F.W. Parkway
+West Roxbury, MA 02132
+(42.27822999981481, -71.15878999955868)"
+Greater Egleston High,2119,Greater Egleston High,HS,"80 School Street
+Roxbury, MA 02119
+(42.31434028136342, -71.09922606726064)"
+Parkman Bldg,2130,BTU K-8 Pilot,K-8,"25 Walk Hill Street
+Jamaica Plain, MA 02130
+(42.294622941902276, -71.11546974262967)"
+Tynan Bldg,2127,Tynan Elementary,ES,"650 E. Fourth Street
+South Boston, MA 02127
+(42.33478931626169, -71.03843569897761)"
+Mattapan Eec Bldg,2126,Ellison/ Parks ELC,ELC,"108 Babson Street
+Mattapan, MA 02126
+(42.27218485727121, -71.09198844444467)"
+Hyde Park EC,2136,Community Leadership Academy,HS,"655 Metropolitan Ave
+Hyde Park, MA 02136
+(42.263092711554975, -71.11734932567094)"
+Guild Bldg,2128,Guild Elementary,ES,"195 Leyden Street
+East Boston, MA 02128
+(42.38858425214491, -71.00402212328991)"
+East Boston High Bldg,2128,East Boston High,HS,"86 White Street
+East Boston, MA 02128
+(42.38061560446334, -71.03415354807602)"
+Blue Hill Ave Eec Bldg,2119,Haynes EEC,ELC,"263 Blue Hill Ave
+Roxbury, MA 02119
+(42.315410752522894, -71.07848099089243)"
+Boston HS Bldg,2111,Quincy Lower (K-5),ES,"885 Washington Street
+Boston, MA 02111
+(42.34828548739057, -71.06419939373927)"
+Ipswich St Bldg,2215,Fenway High,HS,"174 Ipswich Street
+Boston, MA 02215
+(42.34659811860869, -71.09491375534215)"
+Mccormack Bldg,2125,McCormack Middle,MS,"315 Mt. Vernon Street
+Dorchester, MA 02125
+(42.31838302991633, -71.04390169553801)"
+Ohearn Bldg,2122,Henderson Elementary,ES,"1669 Dorchester Avenue
+Dorchester, MA 02122
+(42.293640257317314, -71.06218170226815)"
+Harvard-Kent,2129,Harvard/Kent Elem,ES,"50 Bunker Hill Street
+Charlestown, MA 02129
+(42.376681828192694, -71.0570049807273)"
+Hennigan Bldg,2130,West Zone ELC,ELC,"200 Heath Street
+Jamaica Plain, MA 02130
+(42.32623411123217, -71.10595491555966)"
+Thompson Bldg,2124,Newcomers Academy,Special,"100 Maxwell Street
+Dorchester, MA 02124
+(42.28160975213825, -71.08065698687545)"
+Marshall Bldg,2124,Marshall Elementary,ES,"35 Westville Street
+Dorchester, MA 02124
+(42.300070676873446, -71.07090008361331)"
+Holland Bldg,2121,Holland Elementary,ES,"85 Olney Street
+Dorchester, MA 02121
+(42.305504432349665, -71.07292403616798)"
+Hernandez Bldg,2119,Hernandez K-8,K-8,"61 School Street
+Roxbury, MA 02119
+(42.313811081021406, -71.09821569596275)"
+Roosevelt Bldg,2136,Roosevelt Upper (2-7),K-8,"95 Needham Road
+Hyde Park, MA 02136
+(42.24251265602954, -71.12336871211612)"
+Lewis Bldg,2119,Higginson/Lewis K-8,K-8,"131 Walnut Avenue
+Roxbury, MA 02119
+(42.32099106380133, -71.08594500040778)"
+Abraham Lincoln Building,2116,Quincy Upper School,6th-12,"152 Arlington Street
+Boston, MA 02116
+(42.34854790278255, -71.06923626165974)"
+Taft Bldg,2135,Another Course to College,HS,"20 Warren Street
+Brighton, MA 02135
+(42.34995822636506, -71.14567796959386)"
+Mather Bldg,2122,Mather Elementary,ES,"1 Parish Street
+Dorchester, MA 02122
+(42.307922034764694, -71.06258964420758)"
+New Roosevelt Bldg,2136,Roosevelt K-8 (K1-1),K-8,"30 Millstone Road
+Hyde Park, MA 02136
+(42.23373884051864, -71.13334826457213)"
+Mckinley Mackey Bldg,2116,McKinley So. End Acad,Special,"90 Warren Avenue
+Boston, MA 02116
+(42.344499341647236, -71.07359730894547)"
+Manning Bldg,2130,Manning Elementary,ES,"130 Louders Lane
+Jamaica Plain, MA 02130
+(42.305792521506135, -71.13100103407567)"
+Kennedy  P Bldg,2128,Kennedy Patrick Elem,ES,"343 Saratoga Street
+East Boston, MA 02128
+(42.37857814268395, -71.03097975409406)"
+Perkins Bldg,2127,Perkins Elementary,ES,"50 Burke Street
+South Boston, MA 02127
+(42.331027909165584, -71.05058287588075)"
+Murphy Bldg,2122,Murphy K-8,K-8,"1 Worrell Street
+Dorchester, MA 02122
+(42.29468995419834, -71.05005749201418)"
+Holmes Bldg,2124,Holmes Elementary,ES,"40 School Street
+Dorchester, MA 02124
+(42.296775923738565, -71.07533564431431)"
+Mckinley Mackey Bldg,2116,McKinley Elementary,Special,"90 Warren Avenue
+Boston, MA 02116
+(42.344499341647236, -71.07359730894547)"
+Cleveland Bldg,2122,Harbor School,MS,"11 Charles Street
+Dorchester, MA 02122
+(42.300657414511114, -71.0612289865104)"
+Beethoven Bldg,2132,Beethoven Elementary,ES,"5125 Washington Street
+West Roxbury, MA 02132
+(42.26341646748551, -71.15502192547831)"
+Clap Bldg,2125,Clap Elementary,ES,"35 Harvest Street
+Dorchester, MA 02125
+(42.32305512278933, -71.05827128016072)"
+Burke High School Bldg,2121,Burke High,HS,"60 Washington Street
+Dorchester, MA 02121
+(42.306592918112244, -71.08185308517443)"
+Cleveland Bldg,2136,Comm Acad Sci Health,HS,"11 Charles Street
+Hyde Park, MA 02136
+(42.25121266754792, -71.1319812950876)"
+Emerson Building,2119,Dudley Street Neighborhood Charter School,ES,"6 Shirley St
+Roxbury, MA 02119
+(42.32332930107748, -71.07288684454232)"
+Madison Park Bldg #1,2120,Madison Park High,HS,"75 Malcolm X Blvd
+Roxbury, MA 02120
+(42.33130553352856, -71.09167804257322)"
+Eliot Bldg,2113,Eliot K-8,K-8,"16 Charter Street
+Boston, MA 02113
+(42.36618199577367, -71.0532456514224)"
+Bradley Bldg,2128,Bradley Elementary,ES,"110 Beachview Road
+East Boston, MA 02128
+(42.3911310572244, -71.00418092543177)"
+Mason Bldg,2119,Mason Elementary,ES,"150 Norfolk Avenue
+Roxbury, MA 02119
+(42.32634848514348, -71.07087371277584)"
+Kennedy  J  Bldg,2130,Kennedy John F Elemen,ES,"7 Bolster Street
+Jamaica Plain, MA 02130
+(42.321883715297524, -71.10619603536286)"
+Dorchester Ed. Bldg #1 - Main,2124,TechBoston Academy,6th-12,"9 Peacevale Road
+Dorchester, MA 02124
+(42.287968441354764, -71.07678053840408)"
+Shaw  R.G.  Bldg,2132,Lyndon K-8,K-8,"20 Mt. Vernon Street
+West Roxbury, MA 02132
+(42.28319255890983, -71.15834941698671)"
+Blackstone Bldg,2118,Blackstone Elementary,ES,"380 Shawmut Avenue
+Boston, MA 02118
+(42.340002731500704, -71.07395703775717)"
